@@ -11,7 +11,7 @@ import Layout from '../components/Layout'
 const Home: NextPage = () => {
   return (
     <Layout>
-      <div className="text-slate-700 font-sans flex flex-col gap-4">
+      <div className="text-slate-700 font-sans flex flex-col gap-7">
         <Header/>
         <Profile/>
         <Project_preview/>

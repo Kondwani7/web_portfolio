@@ -3,7 +3,7 @@ import React from 'react';
 const Project_preview = () => {
   return (
     <div>
-      Project Portfolio 
+      Project Portfolio preview
     </div>
   );
 };

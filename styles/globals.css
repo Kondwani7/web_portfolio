@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 div{
-  @apply border-4 border-indigo-500/75
+  /*@apply border-4 border-indigo-500/75*/
   
 }
