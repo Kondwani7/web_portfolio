@@ -4,7 +4,7 @@ import {MdOutlineMail} from 'react-icons/md';
 import Link from 'next/link';
 const Header = () => {
   return (
-    <div className='text-center border-b border-slate-300 p-4 text-gray-500'>
+    <div className='text-center border-b border-slate-300 gap-6 text-gray-500'>
         <div className='text-2xl font-bold'>Kondwani Ngulube</div>
         <div>Software Developer</div>
         <div className='flex justify-center gap-4 text-sm'>
